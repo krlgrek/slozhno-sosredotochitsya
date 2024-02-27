@@ -4,20 +4,16 @@
   переключая тему
 */
 
-:root.theme-dark {
-  /* Дублируем переменные для тёмной темы */
-  --title-color: #DB00FF;
-  --accent-color: #FF0070;
-  --accent-color-transparent: rgba(255, 0, 112, 0.40);
-  --text-color: #F1B2CE;
-  --text-title-decor: #000028;
-}
-
-/* Остальные стили */ 
-
 .page.theme_dark {
   /* сохраните этот селектор в приведённом виде.
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
+  --title-color: #db00ff;
+  --accent-color: #ff0070;
+  --accent-color-transparent: rgba(255, 0, 112, 0.4);
+  --text-color: #f1b2ce;
+  --text-title-decor: #000028;
+  --background-image: url(../images/cover-image-dark.png);
+  --background-color: #000028;
 }

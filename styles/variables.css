@@ -4,9 +4,11 @@
 */
 
 :root {
-  --title-color: #DB00FF;
-  --accent-color: #FF0070;
-  --accent-color-transparent: rgba(255, 0, 112, 0.40);
-  --text-color: #F1B2CE;
+  --title-color: #db00ff;
+  --accent-color: #ff0070;
+  --accent-color-transparent: rgba(255, 0, 112, 0.4);
+  --text-color: #f1b2ce;
   --text-title-decor: #000028;
+  --background-image: url(../images/cover-image-dark.png);
+  --background-color: #000028;
 }
