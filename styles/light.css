@@ -6,6 +6,11 @@
 
 :root.theme-light {
   /* Переменные светлой темы */    
+  --title-color: #ffc2e6;
+  --accent-color: #ff8dcb;
+  --accent-color-transparent: rgba(50, 49, 45, 0.4);
+  --text-color: #353430;
+  --text-title-decor: #353430;
 }
 
 /* Остальные стили */
@@ -13,6 +18,11 @@
 @media (prefers-color-scheme: light) {
 :root {
       /* Дублируем переменные светлой темы */    
+      --title-color: #ffc2e6;
+      --accent-color: #ff8dcb;
+      --accent-color-transparent: rgba(50, 49, 45, 0.4);
+      --text-color: #353430;
+      --text-title-decor: #353430;
   }
 }
 

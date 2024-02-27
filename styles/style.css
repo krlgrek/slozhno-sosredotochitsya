@@ -10,6 +10,16 @@
   background-attachment: fixed;
 }
 
+.theme-dark .page {
+  background-image: url(/images/cover-image-dark.png);
+  background-color: #000028;
+}
+
+.theme-light .page {
+  background-image: url(/images/cover-image-light.png);
+  background-color: #FFF1F7;;
+}
+
 .header {
   position: relative;
   block-size: calc(668 / 375 * 100vi);

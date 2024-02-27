@@ -6,6 +6,11 @@
 
 :root.theme-dark {
   /* Дублируем переменные для тёмной темы */
+  --title-color: #DB00FF;
+  --accent-color: #FF0070;
+  --accent-color-transparent: rgba(255, 0, 112, 0.40);
+  --text-color: #F1B2CE;
+  --text-title-decor: #000028;
 }
 
 /* Остальные стили */ 
