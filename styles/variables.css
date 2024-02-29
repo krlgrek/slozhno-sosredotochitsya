@@ -16,6 +16,7 @@
   --decorative-elements-color: #ff0070;
   --section-title-color: #ff0070;
   --logo-accent-color: #ff0070;
+  --rec-visibility: visible;
 }
 
 @media (width >= 768px) {
