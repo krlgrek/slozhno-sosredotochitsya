@@ -344,6 +344,7 @@
 @media (width >= 1024px) {
   .section-what {
     grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: row;
   }
 
   .section-what .section-title-decor {
