@@ -1,1 +1,1 @@
-https://github.com/Morgven/slozhno-sosredotochitsya
+https://github.com/krlgrek/slozhno-sosredotochitsya
